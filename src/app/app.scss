@@ -1,0 +1,45 @@
+// button{
+//     color: white;
+//     background-color: red;
+//     border-radius: 2cap;
+//     border-color: red;
+//     padding: 10px;
+//     padding-left: 10xp;
+//     padding-right: 10px;
+// }
+.btn {
+  color: white;
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+  border: 2px solid black;
+  border-radius: 50%;
+  cursor: pointer;
+  //   font-weight: bold;
+  //   transition: background 0.3s ease;
+  // padding: 80px 80px;
+}
+
+.bg-red {
+  background-color: red;
+}
+.bg-black {
+  background-color: black;
+}
+.bg-green {
+  background-color: green;
+}
+
+.btn:hover {
+  border: 2px solid white;
+}
+
+.count {
+  width: 100px;
+  background: gray;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 30px;
+  margin: auto;
+  margin-bottom: 30px;
+}
